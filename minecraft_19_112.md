@@ -23,7 +23,7 @@ Plugins:
  - WorldGuard
  ```
  
- Server files are public, free and made by metosz
+ Server files are public, free and made by metosz |
  License: http://creativecommons.org/licenses/by-nc-sa/3.0/pl\
  
  Tips:
