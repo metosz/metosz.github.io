@@ -23,5 +23,24 @@ Plugins:
  - WorldGuard
  ```
  
- Download Here
+ Server files are public, free and made by metosz
+ License: http://creativecommons.org/licenses/by-nc-sa/3.0/pl\
+ 
+ Tips:
+ 
+ ```
+ - To allow using op and deop command on server go to:
+   plugins/nocheatplus/config.yml and change:
+ 
+      consoleonly:
+          active: true
+          
+ - Download Notepad++ to edit server files
+ - Update your Java
+ - When you have problems with joining the server, check your firewall
+ - Rank command: /lp user NICKNAME parent set RANK
+ ```     
+ [Virus Scan Here](https://www.virustotal.com/#/file-analysis/ZDMxMGFkNTY2OGRjMDJiNjExNTA4MTk1ZmZjZTQ5Y2E6MTUxNzcwMDE0OA==)
+ 
+ [Download Here](x)
  
