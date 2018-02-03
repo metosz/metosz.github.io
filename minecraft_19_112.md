@@ -1,4 +1,4 @@
-##Minecraft Server Files 1.9-1.12 Spigot
+## Minecraft Server Files 1.9-1.12 Spigot
 
 ```
 Author: metosz
