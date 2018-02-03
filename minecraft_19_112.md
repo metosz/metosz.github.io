@@ -42,5 +42,5 @@ Plugins:
  ```     
  [Virus Scan Here](https://www.virustotal.com/#/file-analysis/ZDMxMGFkNTY2OGRjMDJiNjExNTA4MTk1ZmZjZTQ5Y2E6MTUxNzcwMDE0OA==)
  
- [Download Here](x)
+ [Download Here](http://j.gs/AQ4m)
  
