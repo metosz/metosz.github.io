@@ -9,4 +9,4 @@ _Have fun!_
 
 In this section, you can download minecraft server files, check out the list above:
 
-  - [Minecraft Server Files 1.9-1.12](minecraft19112)
+  - [Minecraft Server Files 1.9-1.12 Spigot](minecraft_19_112.md)
